@@ -1,3 +1,3 @@
 # Menu responsive
-Page perso de Yohan Chevrot (Dynzels).
-# dynzels.github.io
+CV de Y. Chevrot à venir.
+# Contient le fichier app-ads.txt requis pour Google Admob
